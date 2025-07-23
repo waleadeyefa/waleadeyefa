@@ -48,12 +48,33 @@ My journey in information technology has led me to develop a strong passion for 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<div align="center">
+  
+  <a href="https://www.credly.com/badges/70072864-8a04-40a8-863d-b197a7bff29b/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Analyst%20Professional%20Certificate-000080?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/7a91bf33-caff-4898-9ca7-cf49aeda2beb/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Governance%2C%20Risk%2C%20and%20Compliance-8b008b?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://openbadgepassport.com/app/badge/info/975991" target="_blank">
+    <img src="https://img.shields.io/badge/-Cybersecurity%20Professional%20Badge-006400?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/453b2b41-4130-4e55-b781-062822ab91fa/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-0057b7?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/85e7b5ad-2458-4075-b1ff-f54aea035698/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Network%20Security%20&%20Database%20Vulnerabilities-b22222?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/028fbb1b-f66a-4be8-ae7f-b7ac25ff7d64/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Vulnerability%20Management%20&%20SIEM-4682b4?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/ff2f7175-1173-4de2-bcca-09254b86b121/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%20Operations%20&%20Threat%20Hunting-2f4f4f?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/75850d37-2db7-4d22-ace4-e49cfe9ece44/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-Endpoint%20Detection%20&%20Response-228b22?style=for-the-badge&logo=IBM&logoColor=white" />
+  </a>
+
 </div>
 
 ## Projects
