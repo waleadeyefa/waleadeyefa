@@ -22,7 +22,6 @@ My journey in information technology has led me to develop a strong passion for 
 | Threat Intelligence & Research               | Global/Industry Risk Landscape Report                    |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
