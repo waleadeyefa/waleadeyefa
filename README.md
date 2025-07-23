@@ -14,7 +14,7 @@ My journey in information technology has led me to develop a strong passion for 
 
 | Skill                                         | Associated Project                                      |
 |----------------------------------------------|----------------------------------------------------------|
-| Vulnerability Assessment & OWASP Top 10 Mapping | <a href="https://google.com">Detection Lab</a>   |
+| Vulnerability Assessment & OWASP Top 10 Mapping | <a href= "https://github.com/waleadeyefa/Cybersecurity-Risk-Assessment/tree/main">Cybersecurity Risk Assessment</a>|
 | Risk Analysis & Mitigation Recommendations   | IBM SkillsBuild Cybersecurity Project (Hackicorp)        |
 | Governance, Risk, and Compliance (GRC)        | IBM GRC Micro-Credential + Project Integration          |
 | Security Reporting & Documentation           | Hackicorp Final Cybersecurity Risk Report                |
@@ -79,6 +79,6 @@ My journey in information technology has led me to develop a strong passion for 
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href= "https://github.com/waleadeyefa/Cybersecurity-Risk-Assessment/tree/main">Cybersecurity Risk Assessment</a>
+
 
