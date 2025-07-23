@@ -14,7 +14,7 @@ My journey in information technology has led me to develop a strong passion for 
 
 | Skill                                         | Associated Project                                      |
 |----------------------------------------------|----------------------------------------------------------|
-| Vulnerability Assessment & OWASP Top 10 Mapping | IBM SkillsBuild Cybersecurity Project (Hackicorp)     |
+| Vulnerability Assessment & OWASP Top 10 Mapping | <a href="https://google.com">Detection Lab</a>   |
 | Risk Analysis & Mitigation Recommendations   | IBM SkillsBuild Cybersecurity Project (Hackicorp)        |
 | Governance, Risk, and Compliance (GRC)        | IBM GRC Micro-Credential + Project Integration          |
 | Security Reporting & Documentation           | Hackicorp Final Cybersecurity Risk Report                |
