@@ -21,26 +21,33 @@ My journey in information technology has led me to develop a strong passion for 
 | Team Collaboration & Client Presentation     | Hackicorp Live Presentation & Stakeholder Engagement     |
 | Threat Intelligence & Research               | Global/Industry Risk Landscape Report                    |
 
-## Tools
+## 🛠️ Tools
 
-### Network
+### Vulnerability Assessment & Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-1A1A1A?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004072?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6F00?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
 </div>
 
-### Endpoint
+### Reconnaissance & Testing
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Whois-303030?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Dig-123456?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nslookup-505050?&style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
+### Analysis & Reporting
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerPoint-B7472A?&style=for-the-badge&logo=Microsoft%20PowerPoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Slides-FFD700?&style=for-the-badge&logo=Google%20Slides&logoColor=white" />
+</div>
+
+### Frameworks & Methodologies
+<div>
+    <img src="https://img.shields.io/badge/-OWASP%20Top%2010-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GRC-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
